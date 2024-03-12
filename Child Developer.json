@@ -1,0 +1,50 @@
+{
+  "childDevelopers": [
+    {
+      "monthImage": "ссылка_на_изображение_1",
+      "month": "Заголовок_1",
+      "monthText": "Текст_1",
+      "boys": {
+        "height": [
+          "55см",
+          "57см",
+          "61см"
+        ],
+        "weight": [
+          "12кг",
+          "12.5кг"
+        ],
+        "headСoverage": [
+          "42см",
+          "42.5см"
+        ]
+      },
+      "girls": {
+        "height": [
+          "55см",
+          "57см",
+          "61см"
+        ],
+        "weight": [
+          "12кг",
+          "12.5кг"
+        ],
+        "headСoverage": [
+          "42см",
+          "42.5см"
+        ]
+      },
+      "childDevelopmentImage": "ссылка_на_изображение_1",
+      "сhildDevelopment": "Заголовок_1",
+      "сhildDevelopmentText": "Текст_1",
+      "nutritionImage": "ссылка_на_изображение_1",
+      "nutrition": "Заголовок_1",
+      "nutritionText": "Текст_1",
+      "babyCareImage": "ссылка_на_изображение_1",
+      "babyCareText": "Текст_1",
+      "wellnessImage": "ссылка_на_изображение_1",
+      "wellness": "Заголовок_1",
+      "wellnessText": "Текст_1"
+    }
+  ]
+}
